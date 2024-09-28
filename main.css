@@ -1,0 +1,99 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+ .title{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 700;
+    text-align: justify;
+    background-color: #311313;
+    text-align: center;
+    width: 636px;
+    margin: 0 auto;
+    padding-top: 23px;
+    padding-bottom: 24px;
+ }
+ body{
+   background-color: #2a5d5a; 
+  
+ }
+ .ota{
+    padding-top: 45px;
+    padding-left: 52px;
+    padding-right: 52px;
+    padding-bottom: 45px;
+    width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+ }
+ .bola{
+   
+  padding-left: 40px;
+  padding-right: 39px;
+    color: rgb(0, 0, 0);
+font-family: inherit;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+ }
+ .bolaa{
+    
+    font-family: 'Inter', sans-serif;
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+ }
+ .bobo{
+    background: rgb(31, 232, 183);
+    width: 896px;
+    padding-bottom: 54px; 
+    padding-top: 54px;
+ }
+
+ .bolam{
+    padding-left: 40px;
+    padding-right: 39px;
+    text-align: center;
+  
+    color: rgb(0, 0, 0);
+
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+ }
+ .bolaam{
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+ }
+ .bobom{
+    background: rgb(31, 232, 183);
+    width: 896px;
+    padding-bottom: 54px; 
+    padding-top: 54px;
+ }
+ .mazza{
+    background-color: black;
+    height: 30px;
+    width: 800px;
+ }
+ 
+
